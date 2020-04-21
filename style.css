@@ -30,10 +30,11 @@ a:hover {
   padding: 250px 0px;
   background-size: cover;
   background-position: center;
-  height: 700px;
+  height: 1000px;
 }
 .banner h1 {
   font-size: 49px;
+  padding-top: 50px;
 }
 .banner p {
   opacity: 0.8;
